@@ -1,0 +1,175 @@
+{
+    "userAgent": "mozilla/5.0 (iphone; cpu iphone os 18_5 like mac os x) applewebkit/605.1.15 (khtml, like gecko) version/18.5 mobile/15e148 safari/604.1",
+    "appVersion": "5.0 (iphone; cpu iphone os 18_5 like mac os x) applewebkit/605.1.15 (khtml, like gecko) version/18.5 mobile/15e148 safari/604.1",
+    "languages": {
+        "main": "ru-RU",
+        "preferred": [
+            "ru-RU"
+        ],
+        "dateTimePreffered": "ru"
+    },
+    "mimeTypes": {
+        "mimeTypes": [
+            "Portable Document Format::application/pdf",
+            "Portable Document Format::text/pdf"
+        ],
+        "isPrototypesConsistent": true
+    },
+    "evalLength": 33,
+    "plugins": {
+        "plugins": [
+            "PDF Viewer",
+            "Chrome PDF Viewer",
+            "Chromium PDF Viewer",
+            "Microsoft Edge PDF Viewer",
+            "WebKit built-in PDF"
+        ],
+        "pluginsTrueInstance": true
+    },
+    "documentElementAttrs": [
+        "data-theme",
+        "data-req-uuid",
+        "data-req-ip"
+    ],
+    "errorTrace": "TypeError: Cannot read properties of null (reading '0')\n\tat fn (https://www.wildberries.ru/__wbaas/challenges/antibot/statics/fingerprint_v1.0.26.js:1:80068)\n\tat https://www.wildberries.ru/__wbaas/challenges/antibot/statics/fingerprint_v1.0.26.js:1:120801\n\tat async Promise.all (index 7)\n\tat async Ge.solve (https://www.wildberries.ru/__wbaas/challenges/antibot/statics/challenge-solver_v1.0.7.js:1:48460)\n\tat async _.solveChallenge (https://www.wildberries.ru/__wbaas/challenges/antibot/statics/challenge-solver_v1.0.7.js:1:57142)\n\tat async _.solve (https://www.wildberries.ru/__wbaas/challenges/antibot/statics/challenge-solver_v1.0.7.js:1:56429)\n\tat async pe.createTokenWithRetries (https://www.wildberries.ru/__wbaas/challenges/antibot/__static/v1/index-DQJ0L4Mq.js:1:53396)\n\tat async pe.createToken (https://www.wildberries.ru/__wbaas/challenges/antibot/__static/v1/index-DQJ0L4Mq.js:1:52504)",
+    "functionBind": "function bind() { [native code] }",
+    "productSub": "20030107",
+    "webDriver": false,
+    "screenParams": {
+        "wInnerHeight": 932,
+        "wOuterHeight": 932,
+        "wOuterWidth": 430,
+        "wInnerWidth": 430,
+        "wScreenX": 0,
+        "wPageXOffset": 0,
+        "wPageYOffset": 0,
+        "cWidth": 430,
+        "cHeight": 932,
+        "sWidth": 430,
+        "sHeight": 932,
+        "sAvailWidth": 430,
+        "sAvailHeight": 932,
+        "sColorDepth": 32,
+        "sPixelDepth": 32,
+        "wDevicePixelRatio": 3,
+        "wColorGamut": [
+            "any"
+        ]
+    },
+    "browserVendor": "safari",
+    "browserEngineType": "chromium",
+    "platform": "Win32",
+    "custom": true,
+    "timezone": "Europe/Moscow",
+    "math": {
+        "acos": 1.047197551196598,
+        "asin": 0,
+        "cos": 0,
+        "largeCos": 0.763970404441728,
+        "largeSin": -0.645251285265781,
+        "largeTan": -0.844602463019884,
+        "sin": 0,
+        "tan": 7e-14,
+        "hypot": 5,
+        "log1p": 0.00000999995,
+        "expm1": 0.00001000005,
+        "atan2": 0.523598775598299,
+        "imul": -824525248
+    },
+    "canvas": {
+        "winding": true,
+        "geometry": "b8e2bcbeffb70c7fb34d493a9db188ef20dc61028ed42eeeef48c4e43cb428c0",
+        "text": "e69bb513df47d6af2ce0d1e3c7eef55419be2addced629ab951597322fa517bd",
+        "tampered": false
+    },
+    "screen2": {
+        "value": {
+            "cdp": {
+                "b": "ca",
+                "t": "14",
+                "s": 3
+            },
+            "ies": {
+                "b": "di",
+                "t": "10",
+                "s": 4
+            },
+            "ion": {
+                "b": "ar",
+                "t": "7",
+                "s": 5
+            },
+            "trs": {
+                "b": "ar",
+                "t": "8",
+                "s": 8
+            },
+            "ace": {
+                "b": "ap",
+                "t": "12",
+                "s": 6
+            },
+            "gth": {
+                "b": "de",
+                "t": "11",
+                "s": 3
+            },
+            "ver": {
+                "b": "de",
+                "t": "16",
+                "s": 8
+            },
+            "ent": {
+                "b": "ar",
+                "t": "16",
+                "s": 1
+            },
+            "ind": {
+                "b": "ma",
+                "t": "15",
+                "s": 1
+            },
+            "ges": {
+                "b": "ma",
+                "t": "6",
+                "s": 1
+            },
+            "ins": {
+                "b": "ar",
+                "t": "9",
+                "s": 4
+            },
+            "sub": {
+                "b": "di",
+                "t": "15",
+                "s": 9
+            }
+        }
+    },
+    "elapsedTime": 540,
+    "elapsedTimeCleared": 0,
+    "elapsedTimePerItem": {
+        "value": {
+            "userAgent": 0.099853515625,
+            "appVersion": 0,
+            "languages": 5.599853515625,
+            "mimeTypes": 0.39990234375,
+            "evalLength": 0,
+            "plugins": 0.10009765625,
+            "documentElementAttrs": 0,
+            "errorTrace": 0.099853515625,
+            "functionBind": 0,
+            "productSub": 0.099853515625,
+            "webDriver": 0,
+            "screenParams": 0.10009765625,
+            "browserVendor": 0,
+            "browserEngineType": 0,
+            "platform": 0,
+            "custom": 0,
+            "timezone": 0.599853515625,
+            "math": 0.199951171875,
+            "canvas": 29.60009765625,
+            "sum": 36.8994140625
+        }
+    }
+}
